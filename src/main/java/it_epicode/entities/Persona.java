@@ -1,9 +1,8 @@
 package it_epicode.entities;
 
-import java.util.List;
-
 import javax.persistence.*;
 import java.time.LocalDate;
+import java.util.List;
 
 @Entity
 @Table(name = "persona")
